@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb Oke</h1>
-<h3 align="center">Java | Golang | Javascript. Software Engineering Intern at Omnitracs</h3>
+<h3 align="center">Java | Golang | Javascript.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <a href="https://twitter.com/caleboak__" target="blank"><img src="https://img.shields.io/twitter/follow/caleboak__?logo=twitter&style=for-the-badge" alt="caleboak__" /></a> </p>
